@@ -20,3 +20,6 @@ Spotify Engineering Culture [1](https://vimeo.com/85490944) [2](https://vimeo.co
 - Distributed worker systems.
 - Networking (DNS lookups, request-response cycle, HTTP verbs, TCP vs. UDP, how cookies work).
 - Websites (Speeding up websites, optimizing common queries via db indices, loading front-end assets from CDN, cleaning up - zombie listeners).
+
+#### Mock Interviews
+- Cracking the Coding Interview [video](https://vimeo.com/114005872)
