@@ -11,6 +11,8 @@ Spotify Engineering Culture [1](https://vimeo.com/85490944) [2](https://vimeo.co
 
 ### Interview Prep
 
+- [Google SWE Prep Doc](https://docs.google.com/document/d/1hxnrh7nm24IqtFXsSQqwv4Arx4cxlD9t29cfpKQRRx8/edit)
+
 #### Systems Design
 - HTTP (Protocol Level).
 - Databases (Indexes, query planning, noSQL, scale, ACID v. BASE, CAP THEOREM).
